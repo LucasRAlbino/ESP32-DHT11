@@ -12,7 +12,7 @@ Este projeto utiliza um ESP32, um sensor de temperatura e umidade DHT11, e um se
 - **Sensor DHT11**: Sensor responsável pela leitura da temperatura e umidade.
 - **Servo Motor**: Motor controlado que oscila entre 0° e 180° quando a temperatura excede o limite.
 
-## Esquemático
+## Circuito
 
 ![Esquemático do Circuito](assets/img1.jpeg)
 
