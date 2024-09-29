@@ -6,8 +6,8 @@
 #include <ESP32Servo.h>  
 
 
-const char* ssid = "brisa-834374";
-const char* password = "3pnipjly";
+const char* ssid = "REDE-WIFI";
+const char* password = "SENHA-WIFI";
 
 
 WebServer server(80);
